@@ -3,7 +3,7 @@
 ### Machine Learning Engineer
 
 
-### Interest
+### Interested in ...
 - Data Engineering
 - Semi-supervised learning
 - Kaggle
