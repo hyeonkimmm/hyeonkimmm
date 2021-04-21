@@ -10,6 +10,7 @@
 - Kaggle
 - **Credit Evaluation Model** Using Credit Card Sales Information
 - AWS Elastic Beanstalk
+- AWS PinPoint
 - Docker
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:hyeonkimmm.github.io)](https://hyeonkimmm.github.io) 
