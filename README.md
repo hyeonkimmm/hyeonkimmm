@@ -10,7 +10,7 @@
 - Kaggle
 - **Credit Evaluation Model** Using Credit Card Sales Information
 - AWS Elastic Beanstalk
-- AWS PinPoint
+- AWS PinPoint with PHP Laravel
 - Docker
 - ETL application
 
