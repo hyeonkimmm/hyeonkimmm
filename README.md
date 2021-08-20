@@ -6,11 +6,11 @@
 
 ### Interested in ...
 - Data Engineering
+- Airflow
+- Docker
 - AWS Glue, Lambda, Step Functions, SageMaker, Cloud9, RDS
 - ETL application
-- Airflow
 - query optimization
-- Docker
 - Kaggle
 - Semi-supervised learning
 - **Credit Evaluation Model** Using Credit Card Sales Information
