@@ -5,13 +5,11 @@
 ### Interested in ...
 - Data Engineering
 - Airflow
+- Spark
 - Docker
-- AWS Glue, Lambda, Step Functions, SageMaker, Cloud9, RDS
+- AWS Glue, Lambda, Step Functions
 - ETL application
 - query optimization
-- Kaggle
-- Semi-supervised learning
-- **Credit Evaluation Model** Using Credit Card Sales Information
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hkim-data.tistory.com/)](https://hkim-data.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeon000125@gmail.com)](mailto:hyeon000125@gmail.com)
