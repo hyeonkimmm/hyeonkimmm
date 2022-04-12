@@ -6,7 +6,7 @@
 - Data Engineering
 - Airflow
 - Spark
-- 
+- Kafka
 - Docker
 - AWS Glue, Lambda, Step Functions
 
